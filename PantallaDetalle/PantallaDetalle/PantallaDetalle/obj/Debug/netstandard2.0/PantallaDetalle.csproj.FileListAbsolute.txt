@@ -1,0 +1,17 @@
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\bin\Debug\netstandard2.0\PantallaDetalle.deps.json
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\bin\Debug\netstandard2.0\PantallaDetalle.dll
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\bin\Debug\netstandard2.0\ref\PantallaDetalle.dll
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\bin\Debug\netstandard2.0\PantallaDetalle.pdb
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\PantallaDetalle.csproj.AssemblyReference.cache
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\PantallaDetalle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\Detalle.xaml.g.cs
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\Master.xaml.g.cs
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\PantallaDetalle.AssemblyInfoInputs.cache
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\PantallaDetalle.AssemblyInfo.cs
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\PantallaDetalle.csproj.CoreCompileInputs.cache
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\PantallaDetalle.dll
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\ref\PantallaDetalle.dll
+C:\Users\PAOLA\source\repos\PantallaDetalle\PantallaDetalle\PantallaDetalle\obj\Debug\netstandard2.0\PantallaDetalle.pdb
