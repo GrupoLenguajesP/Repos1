@@ -1,0 +1,15 @@
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\bin\Debug\netstandard2.0\Ejercicio_Insert.deps.json
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\bin\Debug\netstandard2.0\Ejercicio_Insert.dll
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\bin\Debug\netstandard2.0\ref\Ejercicio_Insert.dll
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\bin\Debug\netstandard2.0\Ejercicio_Insert.pdb
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\obj\Debug\netstandard2.0\Ejercicio_Insert.csproj.AssemblyReference.cache
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\obj\Debug\netstandard2.0\Ejercicio_Insert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\obj\Debug\netstandard2.0\Ejercicio_Insert.AssemblyInfoInputs.cache
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\obj\Debug\netstandard2.0\Ejercicio_Insert.AssemblyInfo.cs
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\obj\Debug\netstandard2.0\Ejercicio_Insert.csproj.CoreCompileInputs.cache
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\obj\Debug\netstandard2.0\Ejercicio_Insert.dll
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\obj\Debug\netstandard2.0\ref\Ejercicio_Insert.dll
+C:\Users\PAOLA\source\repos\Ejercicio_Insert\Ejercicio_Insert\obj\Debug\netstandard2.0\Ejercicio_Insert.pdb

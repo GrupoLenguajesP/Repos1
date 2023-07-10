@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio_Insert.MainPage">
+
+    <StackLayout>
+        
+        <Label Text="REGISTRO DE ALUMNOS " FontSize="Title" Padding="30,10,30,10"/>
+
+        <Entry x:Name="txtNombre" Placeholder="Nombre"/>
+        <Entry x:Name="txtApellido1" Placeholder="Primer Apellido"/>
+        <Entry x:Name="txtApellido2" Placeholder="Segundo Apellido"/>
+        <Entry x:Name="txtEdad" Placeholder="Edad"/>
+        <Entry x:Name="txtCorreo" Placeholder="Correo"/>
+
+        <Button x:Name="btnGuardar" Text="Guardar" Clicked="btnGuardar_Clicked"/>
+
+        <ListView x:Name="LstAlumnos">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>                                
+                            </Grid.ColumnDefinitions>
+
+                            <Label Text="{Binding IdAlumno}" Grid.Row="0" Grid.Column="0" TextColor="Blue"/>
+                            <Label Text="{Binding Nombre}" Grid.Row="0" Grid.Column="1" TextColor="Gray"/>
+                            <Label Text="{Binding Apellido1}" Grid.Row="0" Grid.Column="2" TextColor="Gray"/>
+                            <Label Text="{Binding Apellido2}" Grid.Row="0" Grid.Column="3" TextColor="Gray"/>
+                            <Label Text="{Binding Edad}" Grid.Row="0" Grid.Column="4" TextColor="Gray"/>
+                            <Label Text="{Binding Correo}" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" TextColor="Gray"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+
+        </ListView>
+
+
+    </StackLayout>
+
+</ContentPage>
